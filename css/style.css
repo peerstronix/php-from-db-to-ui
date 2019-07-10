@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container .form-card .card {
+    width: 200px;
+    /*height: 300px;*/
+
+}
+
+.container .form-card .card img {
+    width: 120px;
+    margin: 0;
+    padding: 0;
+}
+
+.container .form-card .card .card-title{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.container .form-card .card .price {
+   font-weight: bold;
+}
+
+.container .form-card .card i {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+/*.container .form-card .card button {*/
+/*    width: 90%;*/
+/*    font-weight: bold;*/
+/*}*/
